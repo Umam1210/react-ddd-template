@@ -1,6 +1,6 @@
 import { createBrowserRouter } from "react-router-dom";
-import App from "../../presentation/pages/App";
-import Test from "../../presentation/pages/Test";
+import App from "../../ui/pages/App";
+import Test from "../../ui/pages/Test";
 
 
 
